@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
